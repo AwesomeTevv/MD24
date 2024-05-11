@@ -14,6 +14,6 @@ I love you ❤️
 
 ([P.S. Here are your flowers <3 (Click Me!)](https://awesometevv.github.io/MD24/HappyMothersDay.html))
 
-|   From your son   | From your daughter |
-| :---------------: | :----------------: |
-| ![](image-83.jpg) | ![](image-89.jpg)  |
+|    From your son     |    From your daughter     |
+| :------------------: | :-----------------------: |
+| ![Son](image-83.jpg) | ![Daughter](image-89.jpg) |
